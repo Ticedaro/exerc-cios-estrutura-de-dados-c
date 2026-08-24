@@ -1,1 +1,1 @@
-# exerc-cios-estrutura-de-dados-c
+# exercicios-estrutura-de-dados-c
